@@ -9,7 +9,6 @@ fahrenheit = Math.floor(fahrenheit);
 
 console.log(`The temperature is ${fahrenheit} degrees Fahrenheit.`);
 
-
 // practice
 var newton = celsius * 33 / 100;
 console.log(Math.floor(newton));
